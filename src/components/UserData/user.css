@@ -43,8 +43,8 @@ body {
 ul,li {
     display: flex;
     list-style: none;
-    margin-left: -20px;
-    margin-top: 0px;
+    margin-left: -16px;
+    margin-top: 4px;
 }
 
 

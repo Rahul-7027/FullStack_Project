@@ -1,4 +1,5 @@
-import UserDataGet from './components/UserDataGet'
+import UserDataGet from './components/UserData/UserDataGet'
+import Input from "./components/InputUser/input"
 
 function App() {
 
