@@ -76,4 +76,5 @@ const input = ({ getApiData, setApiData, setEditApiData, editApiData }) => {
     )
 }
 
-export default input
+export default input;
+  
